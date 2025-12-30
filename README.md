@@ -25,27 +25,27 @@ Make sure the following are installed on your system:
 
 1. **Python 3.x**
 2. **OpenCV for Python**
-   \`\`\`bash
+   ```bash
    pip install opencv-python
-   \`\`\`
+   ```
 3. **Potrace**
 
    Download Potrace
 
-   Extract it and note the full path to \`potrace.exe\`
+   Extract it and note the full path to `potrace.exe`
 
 ---
 
 ## Setup Instructions
 
-1. Place all images you want to convert (PNG, JPG, JPEG) in the same folder as the Python script (\`main.py\`).
-2. Open \`main.py\` and update the \`potrace_path\` variable with the full path to your Potrace executable.
+1. Place all images you want to convert (PNG, JPG, JPEG) in the same folder as the Python script (`main.py`).
+2. Open `main.py` and update the `potrace_path` variable with the full path to your Potrace executable.
 
 Example:
 
-\`\`\`python
+```python
 potrace_path = r"C:\\Users\\YourName\\Downloads\\potrace.exe"
-\`\`\`
+```
 
 ---
 
@@ -53,15 +53,15 @@ potrace_path = r"C:\\Users\\YourName\\Downloads\\potrace.exe"
 
 Open terminal or command prompt in the project folder and run:
 
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
-Or, if your system uses \`python3\`:
+Or, if your system uses `python3`:
 
-\`\`\`bash
+```bash
 python3 main.py
-\`\`\`
+```
 
 ---
 
@@ -73,28 +73,27 @@ Temporary PBM files are automatically created and removed.
 
 Supported input formats:
 
-- \`.png\`
-- \`.jpg\`
-- \`.jpeg\`
+- `.png`
+- `.jpg`
+- `.jpeg`
 
 ---
 
 ## Notes
 
-- \`os\` and \`subprocess\` are built-in Python modules (no installation needed).
-- \`cv2\` (OpenCV) must be installed separately.
+- `os` and `subprocess` are built-in Python modules (no installation needed).
+- `cv2` (OpenCV) must be installed separately.
 - Ensure the Potrace executable path is correct and accessible.
 
 ---
 
 ## Keywords
 
-image to svg converter
-png to svg converter
-jpg to svg converter
-bitmap to svg
-raster to vector converter
-image vectorization python
-open source image to svg
-svg converter github
-
+- image to svg converter
+- png to svg converter
+- jpg to svg converter
+- bitmap to svg
+- raster to vector converter
+- image vectorization python
+- open source image to svg
+- svg converter github
